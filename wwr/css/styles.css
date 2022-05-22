@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Monoton&family=Quicksand:wght@500&display=swap');
 html, body {
     background-color: #fcfbfb;;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Quicksand', sans-serif, 'Rock Salt';
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -90,7 +90,6 @@ footer {
 
 .home-title {
     color: black;
-    /* font-family: 'Rock Salt', 'Bradley Hand', sans-serif; */
     font-size: 2em;
     margin-top: 10px;
 }
