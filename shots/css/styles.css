@@ -221,6 +221,7 @@ main section #background2 {
     align-items: center;
     margin: 10% 0 8%  47%;
     border: 10px solid #F8E4E0;
+    box-shadow: 5px 5px 10px #5c5d59;
 }
 
 .content h3 {
